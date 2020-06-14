@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8534372d852db2d4fa49e537c1347971
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ahoy Amigo DEMO
+  fontNames:
+  - Ahoy Amigo DEMO
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 82db96a3770f27340bccdfcd708bc2f8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
